@@ -9,7 +9,7 @@
 
     <title>CodeIgniter Bootstrap</title>
 
-    <link href="<?php echo base_url('assets/css/bootstrap.min.css') ?>" rel="stylesheet">
+    <link href="<?php echo base_url('assets/css/bootstrap.lumen.min.css') ?>" rel="stylesheet">
     <link href="<?php echo base_url('assets/css/font-awesome.min.css') ?>" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
     <link href="<?php echo base_url('assets/css/style.css') ?>" rel="stylesheet">
